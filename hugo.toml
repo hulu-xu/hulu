@@ -1,0 +1,18 @@
+baseURL = 'https://hulububble.site/'
+languageCode = 'en-us'
+title = 'Hulu'
+theme = 'dream'
+
+[params]
+# zenMode = true
+
+lightTheme = "emerald"
+darkTheme = "forest"
+
+author = "Hulu"
+description = "A record for Hulu's plan B."
+avatar = "/img/personal/avatar.jpg"
+headerTitle = "Hulu's Blog"
+
+showSummaryCoverInPost = false
+imageZoomableInPost = true
